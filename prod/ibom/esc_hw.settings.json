@@ -1,0 +1,48 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "esc_hw",
+        "revision": "2",
+        "company": "",
+        "date": "2026-03-04"
+    },
+    "settings": {
+        "canvaslayout": "F",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "15,88,69,72,51,28,74,10,19,38,68,29,46,13,1,59,23,54,92,64,89,33,70,45,16,77,22,4,2,21,0,14,81,75,17,49,66,78,86,8,71,79,62,12,20,27,56,57,60,50,5,47,90,6,24,48,43,3,36,32",
+            "Placed": "60,50,5,47,90,6,24,45,16,72,74,69,88,28,51,15,21,0,14,17,75,8,71,79,62,12,20,81,56,57,2,49,66,78,86,4,27,77,22,48,43,54,10,19,38,68,29,46,13,1,59,23,92,64,89,33,70,3,36,32"
+        },
+        "darkMode": true,
+        "highlightpin1": "selected",
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "offsetBackRotation": false,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": true,
+        "renderZones": true,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "Footprint",
+            "Description",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "netColors": {},
+        "markWhenChecked": "Placed",
+        "highlightRowOnClick": false
+    }
+}
